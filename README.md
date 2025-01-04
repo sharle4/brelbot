@@ -1,8 +1,10 @@
 # brelbot
 
 <details>
-<summary> Liste des chansons utilisées
+<summary> Liste des chansons utilisées </summary>
 
+- À deux
+- À jeun
 - Aldonza
 - Amsterdam
 - Au printemps
@@ -166,7 +168,5 @@
 - Voir
 - Vraiment je ne pense qu’à lui
 - Zangra
-- À deux
-- À jeun
 
 </details>
