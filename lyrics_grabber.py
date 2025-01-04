@@ -88,29 +88,25 @@ def main():
         
         if lyrics:
             lines = lyrics.split('\n', 1)
-            if len(lines) == 1:
-                continue
-            lyrics = re.sub(r'You might also like', '', lines[1][:-5])
-            if lyrics[-1].isdigit():
-                lyrics = lyrics[:-1]
+            lyrics = re.sub(r'\[.*?\]', '', lines[1])
+            lyrics = re.sub(r'\(.*?\)', '', lyrics) 
+            lyrics = re.sub(r'\n\s*\n', '\n', lyrics)
+            lyrics = lyrics.lstrip('\n')
             save_lyrics(song_id, lyrics)
 
     logging.info("-> Finished! Check the lyrics folder.")
 
 
 if __name__ == "__main__":
-    # Read the Genius API key from a file
     with open('genius_api_key.txt', 'r') as file:
         CLIENT_ACCESS_TOKEN = file.readline().strip()
 
-    # Initialize Genius API client
     genius = lyricsgenius.Genius(CLIENT_ACCESS_TOKEN)
     BASE_URL = "https://api.genius.com"
     ARTIST_NAME = "Jacques Brel"
     FOLDER = "lyrics/"
-    MAX_SONGS = 101
+    MAX_SONGS = 1001
 
-    # Configure logging
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
     
     main()
