@@ -1,1 +1,172 @@
 # brelbot
+
+<details>
+<summary> Liste des chansons utilisées
+
+- Aldonza
+- Amsterdam
+- Au printemps
+- Au suivant
+- Avec élégance
+- Ballade
+- Bruxelles
+- Ce qu’il nous faut (Ce qu’il vous faut)
+- Ces gens-là
+- Chacun sa Dulcinea
+- Chanson sans paroles
+- Clara
+- Comment tuer l’amant de sa femme quand on a été élevé comme moi dans la tradition
+- C’est comme ça
+- Demain l’on se marie (la chanson des Fiancés)
+- Dites, si c’était vrai
+- Dors ma mie
+- Dulcinéa
+- Départs
+- Fernand
+- Fils de...
+- Gloria
+- Grand Jacques (C’est trop facile)
+- Grand-mère
+- Heureux
+- Il neige sur Liège
+- Il nous faut regarder
+- Il peut pleuvoir
+- Il pleut (les carreaux)
+- Il y a
+- Isabelle
+- Jaurès
+- Je ne sais pas
+- Je prendrai
+- Je suis l’ombre des chansons
+- Je suis un soir d’été
+- Je t’aime
+- Jef
+- Jojo
+- J’aimais
+- J’arrive
+- J’en appelle
+- Knokke-le-Zoute tango
+- La, La, La
+- La Bastille
+- La bière
+- La bourrée du célibataire
+- La Cathédrale
+- La chanson de Jacky
+- La chanson de Van Horst
+- La chanson des vieux amants
+- La Colombe
+- La Dame patronnesse
+- La Fanette
+- La foire
+- La Haine
+- La Lumière jaillira
+- La Mort
+- La Parlote
+- La quête
+- La Statue
+- La Tendresse
+- La toison d’or
+- La Valse à Mille Temps
+- La ville s’endormait
+- Le Bon dieu
+- Le Caporal Casse-Pompon
+- Le Casque d’Or de Mambrino
+- Le Cheval
+- Le Chevalier aux Miroirs
+- Le Colonel
+- Le Dernier repas
+- Le diable (ça va)
+- Le fou du roi
+- Le Gaz
+- Le Lion
+- Le Moribond
+- Le Pendu
+- Le Plat Pays
+- Le Prochain Amour
+- Le tango funèbre
+- Le troubadour
+- Les Amants de cœur
+- Les bergers
+- Les Biches
+- Les Bigotes
+- Les blés
+- Les Bonbons 67
+- Les Bonbons
+- Les Bourgeois
+- Les Cœurs tendres
+- Les deux fauteuils
+- Les désespérés
+- Les Fenêtres
+- Les Filles et les Chiens
+- Les Flamandes
+- Les Flamingants
+- Les gens
+- Les jardins du casino
+- Les Marquises
+- Les moutons
+- Les paumés du petit matin
+- Les pavés
+- Les Pieds dans le ruisseau
+- Les Prénoms de Paris
+- Les Remparts de Varsovie
+- Les Singes
+- Les timides
+- Les Toros
+- Les Vieux
+- Litanies pour un retour
+- L’accordéon de la vie
+- L’air de la bêtise
+- L’Amour est mort
+- L’ange déchu
+- L’Aventure
+- L’enfance
+- L’Homme dans la cité
+- L’homme de la Mancha
+- L’Ivrogne
+- L’orage
+- L’Ostendaise
+- L’âge idiot
+- L’éclusier
+- Madeleine
+- Mai 40
+- Marieke
+- Mathilde
+- Mon enfance
+- Mon père disait
+- Ne me quitte pas
+- On n’oublie rien
+- Orly
+- Pardons
+- Place de la Contrescarpe
+- Pourquoi fait-il toutes ces choses
+- Pourquoi faut-il que les hommes s’ennuient 
+- Prière païenne
+- Quand maman reviendra
+- Quand on n’a que l’amour
+- Qu’avons-nous fait bonnes gens 
+- Regarde bien, petit
+- Rosa
+- Saint Pierre
+- Sans amour
+- Sans exigences
+- Seul
+- Si tu revenais
+- Sur la place
+- S’il te faut
+- Tango funèbre
+- Titine
+- Un animal
+- Un enfant
+- Une île
+- Vesoul
+- Vieillir
+- Vivre debout
+- Voici
+- Voir un ami pleurer
+- Voir
+- Vraiment je ne pense qu’à lui
+- Zangra
+- À deux
+- À jeun
+
+</details>
