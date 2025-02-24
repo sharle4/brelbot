@@ -1,21 +1,21 @@
 import whisper
+import os
 
 model = whisper.load_model("turbo")
 
-# load audio and pad/trim it to fit 30 seconds
-audio = whisper.load_audio("interviews/test.mp3")
-audio = whisper.pad_or_trim(audio)
+directory = "interviews/"
 
-# make log-Mel spectrogram and move to the same device as the model
-mel = whisper.log_mel_spectrogram(audio, n_mels=model.dims.n_mels).to(model.device)
+for filename in os.listdir(directory):
+    if filename.endswith(".mp3"):
+        file_path = os.path.join(directory, filename)
+        print(f"Transcription de {filename} en cours...")
 
-# detect the spoken language
-_, probs = model.detect_language(mel)
-print(f"Detected language: {max(probs, key=probs.get)}")
-
-# decode the audio
-options = whisper.DecodingOptions()
-result = whisper.decode(model, mel, options)
-
-# print the recognized text
-print(result.text)
+        result = model.transcribe(file_path)
+        
+        output_filename = os.path.splitext(filename)[0] + ".txt"
+        output_path = os.path.join(directory, output_filename)
+        
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write(result["text"])
+        
+        print(f"Transcription de {filename} terminée et enregistrée dans {output_filename}")
